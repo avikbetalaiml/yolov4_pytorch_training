@@ -3,10 +3,10 @@ from datetime import datetime
 class yolo4_db:
 
 	def __init__(self):
-		self.host = 'database-2.canjpdh0podw.us-east-2.rds.amazonaws.com'
-		self.user= 'admin'
-		self.password = 'Root1234'
-		self.database = 'dubai_alfa'
+		self.host = ''
+		self.user= ''
+		self.password = ''
+		self.database = ''
 		self.port = 3306
 		self.cur = None
 		

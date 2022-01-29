@@ -1,0 +1,4 @@
+train: datasets/train.txt
+val: datasets/val.txt
+nc: 1
+names: ['fire']

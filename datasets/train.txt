@@ -1,0 +1,6 @@
+datasets/training_data/images/801392.jpg
+datasets/training_data/images/801378.jpg
+datasets/training_data/images/801400.jpg
+datasets/training_data/images/801347.jpg
+datasets/training_data/images/801150.jpg
+datasets/training_data/images/801384.jpg

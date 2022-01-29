@@ -1,0 +1,5 @@
+python train.py --weight ./weights/yolov5s.pt --data ./datasets/obj.yaml --cfg ./models/yolov5s.yaml --img-size 416 --batch-size 10 --epochs 10
+
+python train.py --weight ./weights/yolov4-csp-s-leaky.weights --data ./datasets/obj.yaml --cfg ./cfg/yolov4-csp-s-leaky.cfg --img-size 416 --batch-size 10 --epochs 10
+
+mlflow server --backend-store-uri sqlite:///mlflow.db --default-artifact-root ./artifacts 

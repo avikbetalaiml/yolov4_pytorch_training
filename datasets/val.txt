@@ -1,0 +1,2 @@
+datasets/training_data/images/801366.jpg
+datasets/training_data/images/801353.jpg
